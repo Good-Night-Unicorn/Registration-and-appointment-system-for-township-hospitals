@@ -1,0 +1,403 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#27357C",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FFFFFF",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/yisheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生"
+		}
+	},{
+		"path": "pages/yisheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生"
+		}
+	}
+	,{
+		"path": "pages/yisheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生"
+		}
+	}
+	,{
+		"path": "pages/keshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "科室"
+		}
+	},{
+		"path": "pages/keshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "科室"
+		}
+	}
+	,{
+		"path": "pages/keshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "科室"
+		}
+	}
+	,{
+		"path": "pages/shijianduan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "时间段"
+		}
+	},{
+		"path": "pages/shijianduan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "时间段"
+		}
+	}
+	,{
+		"path": "pages/shijianduan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "时间段"
+		}
+	}
+	,{
+		"path": "pages/jiuzhenren/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就诊人"
+		}
+	},{
+		"path": "pages/jiuzhenren/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就诊人"
+		}
+	}
+	,{
+		"path": "pages/jiuzhenren/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就诊人"
+		}
+	}
+	,{
+		"path": "pages/menzhenyisheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "门诊医生"
+		}
+	},{
+		"path": "pages/menzhenyisheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "门诊医生"
+		}
+	}
+	,{
+		"path": "pages/menzhenyisheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "门诊医生"
+		}
+	}
+	,{
+		"path": "pages/yuyueguahao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "预约挂号"
+		}
+	},{
+		"path": "pages/yuyueguahao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "预约挂号"
+		}
+	}
+	,{
+		"path": "pages/yuyueguahao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "预约挂号"
+		}
+	}
+	,{
+		"path": "pages/quxiaoyuyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "取消预约"
+		}
+	},{
+		"path": "pages/quxiaoyuyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "取消预约"
+		}
+	}
+	,{
+		"path": "pages/quxiaoyuyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "取消预约"
+		}
+	}
+	,{
+		"path": "pages/binglixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "病历信息"
+		}
+	},{
+		"path": "pages/binglixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "病历信息"
+		}
+	}
+	,{
+		"path": "pages/binglixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "病历信息"
+		}
+	}
+	,{
+		"path": "pages/newstype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯分类"
+		}
+	},{
+		"path": "pages/newstype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯分类"
+		}
+	}
+	,{
+		"path": "pages/newstype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯分类"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯"
+		}
+	}
+	,{
+		"path": "pages/popupremind/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	},{
+		"path": "pages/popupremind/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	}
+	,{
+		"path": "pages/popupremind/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	, {
+		"path": "pages/pay-confirm/pay-confirm",
+		"style": {
+			"navigationBarTitleText": "确认支付"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#007FCA",
+			"navigationBarTextStyle": "white"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "乡镇医院挂号预约系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#E4E4E4",
+		"selectedColor": "#AFF3F5",
+		"borderStyle": "white",
+		"backgroundColor": "#219BE8",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/menzhenyisheng/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "门诊医生"
+			}
+
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/news.png",
+			 	"selectedIconPath": "static/tabs/news_act.png",
+				"text": "资讯"
+			}
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}

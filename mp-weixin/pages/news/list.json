@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#007FCA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "资讯",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
